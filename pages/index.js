@@ -1,1 +1,1 @@
-// homepage
+// Home page content placeholder

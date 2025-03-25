@@ -1,1 +1,1 @@
-// config
+// next config

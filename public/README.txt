@@ -1,1 +1,1 @@
-public assets here
+Public folder assets placeholder
